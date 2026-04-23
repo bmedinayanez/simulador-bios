@@ -25,7 +25,7 @@ El simulador permite a los estudiantes comprender conceptos clave de configuraci
 
 ## ▶️ Uso
 
-Simplemente haz clic en este (enlace)[https://bmedinayanez.github.io/simulador-bios].
+Simplemente haz clic en este enlace:[https://bmedinayanez.github.io/simulador-bios].
 
 ---
 
