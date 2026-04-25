@@ -2,7 +2,7 @@
 
 ## 📌 Descripción
 
-Este proyecto consiste en un **simulador educativo inspirado en diferentes modelos de BIOS**, diseñado específicamente para su uso en **ciclos formativos de informática**. Su objetivo es enseñar de forma práctica y segura cómo funcionan los procesos de **arranque y configuración de BIOS ** sin necesidad de intervenir equipos reales.
+Este proyecto consiste en un **simulador educativo inspirado en diferentes modelos de BIOS**, diseñado específicamente para su uso en **ciclos formativos de informática**. Su objetivo es enseñar de forma práctica y segura cómo funcionan los procesos de **arranque y configuración de BIOS** sin necesidad de intervenir equipos reales.
 
 El simulador permite a los estudiantes comprender conceptos clave de configuración y arranque de forma visual, guiada y sin riesgos.
 
